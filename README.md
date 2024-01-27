@@ -29,15 +29,3 @@ Importation de fichiers simplifiée est une application web qui permet aux utili
 ## Contributions
 
 Les contributions sont les bienvenues! Si vous souhaitez contribuer à ce projet, veuillez ouvrir une issue pour discuter des modifications que vous souhaitez apporter, ou soumettre une pull request.
-
-## Auteurs
-
-[Listez ici les auteurs ou contributeurs du projet, avec leur rôle ou leur contribution.]
-
-## Licence
-
-[Indiquez ici la licence sous laquelle le projet est distribué.]
-
-``` 
-
-N'hésitez pas à personnaliser ce fichier README en fonction des spécificités de votre projet, en ajoutant plus d'informations sur son utilisation, sa configuration, les licences, etc.
