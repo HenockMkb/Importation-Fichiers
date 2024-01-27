@@ -9,10 +9,6 @@ Importation de fichiers simplifiée est une application web qui permet aux utili
 - Support pour différents types de fichiers, avec la possibilité de télécharger les fichiers importés.
 - Conception responsive pour une expérience utilisateur optimale sur tous les appareils.
 
-## Captures d'écran
-
-[Insérez ici des captures d'écran de votre application pour donner un aperçu visuel.]
-
 ## Technologies utilisées
 
 - HTML5
